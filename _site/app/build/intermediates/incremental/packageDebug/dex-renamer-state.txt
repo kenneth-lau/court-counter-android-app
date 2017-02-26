@@ -1,0 +1,7 @@
+#Mon Feb 13 22:21:25 JST 2017
+base.0=/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f39e083a2bdb0d78588c3330a894edb99963984
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d2d8eec86f6c87d6a3aaecfcd32b305456106e4f/classes.dex
+base.1=/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d2d8eec86f6c87d6a3aaecfcd32b305456106e4f
+file.0=/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f39e083a2bdb0d78588c3330a894edb99963984/classes.dex
