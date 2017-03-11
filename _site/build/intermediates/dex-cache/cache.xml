@@ -12,6 +12,42 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_b9c0b04057adacc3b213bfe6e5938568b01500b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8ebc6b475b5a9187dc33a6eed233baeeaaffcdf">
+        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f39e083a2bdb0d78588c3330a894edb99963984/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_79b8a526121b89daf9b040e12574cb3e97d307de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kennethlau/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_eeb3dce60d90092563b436cfa13e12846f9e261c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,48 +102,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_b9c0b04057adacc3b213bfe6e5938568b01500b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c66d2ef66f697fab04328ebd425787e6983c7157">
-        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f39e083a2bdb0d78588c3330a894edb99963984/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="4c4d1c23e2500c7c8626c6e720f48efbc6e74100">
+        sha1="9b56eeee47dcac1b4b4f377b1ebead22e693b9af">
         <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d2d8eec86f6c87d6a3aaecfcd32b305456106e4f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_79b8a526121b89daf9b040e12574cb3e97d307de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kennethlau/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/kennethlau/Documents/Udacity/android-studio-projects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_eeb3dce60d90092563b436cfa13e12846f9e261c/classes.dex" />
     </item>
 
 </items>

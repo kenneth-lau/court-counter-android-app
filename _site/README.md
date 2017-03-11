@@ -4,6 +4,12 @@ This is one of the projects from the "Android Basics: User Input" Udacity course
 
 ## About the app
 
-This is a simple app that keeps track of the scores of two basketball teams.
+This is a simple app that lets you keep track of the scores of two basketball teams.
 
-![Court Counter](/media/court-counter.png)
+## Download
+
+Download the apk file from the [releases page](https://github.com/kenneth-lau/court-counter-android-app/releases).
+
+## Screenshot
+
+![Court Counter](media/court-counter.png)
