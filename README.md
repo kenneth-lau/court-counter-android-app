@@ -10,6 +10,10 @@ This is a simple app that lets you keep track of the scores of two basketball te
 
 Download the apk file from the [releases page](https://github.com/kenneth-lau/court-counter-android-app/releases).
 
+## GIF
+
+![Court counter gif](media/court-counter-app.gif)
+
 ## Screenshot
 
 ![Court Counter](media/court-counter.png)
