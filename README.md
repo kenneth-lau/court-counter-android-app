@@ -12,8 +12,8 @@ Download the apk file from the [releases page](https://github.com/kenneth-lau/co
 
 ## GIF
 
-![Court counter gif](media/court-counter-app.gif)
+<img src="media/court-counter-app.gif" alt="Court counter gif" width="350px">
 
 ## Screenshot
 
-![Court Counter](media/court-counter.png)
+<img src="media/court-counter.png" alt="Court Counter" width="350px">
